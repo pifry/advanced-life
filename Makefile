@@ -1,2 +1,2 @@
 update_requirements:
-	pip freeze >> requirements.txt
+	pip freeze > requirements.txt
